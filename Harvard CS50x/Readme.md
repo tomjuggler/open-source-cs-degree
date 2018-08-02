@@ -1,0 +1,1 @@
+Most of this course's assignments take place on a server, so not expecting much to go inside this folder, maybe I can copy the final project over when I am done.  

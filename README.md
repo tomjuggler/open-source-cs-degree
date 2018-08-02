@@ -1,3 +1,7 @@
+This is my local copy, documenting my progress. 
+
+Any work done related to the degree will be put here.  
+
 # The Open-Source Computer Science Degree
 
 Inspired by [The Open-Source Data Science Masters](https://github.com/datasciencemasters/go), this project aims to do the same for an undergraduate Computer Science degree. The following document outlines free online courses from top schools like Harvard, Stanford and MIT. The groupings by Term are meant to pace and structure the course according to a typical Computer Science track at a college or university. The focus is on the core Computer Science courses; liberal arts or "GenEd" courses have been omitted.
@@ -10,7 +14,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > *or*  
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
 > *or*  
-> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  
+> [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  - chose this one. This instructor is really great!
 > *or*  
 > [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
