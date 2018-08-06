@@ -15,6 +15,7 @@ Inspired by [The Open-Source Data Science Masters](https://github.com/datascienc
 > [Stanford CS106a](https://itunes.apple.com/us/itunes-u/programming-methodology/id384232896?mt=10) *(Note: teaches in Java)*  
 > *or*  
 > [Harvard CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)  - chose this one. This instructor is really great!
+
 > *or*  
 > [UC Berkeley CS61A](http://webcast.berkeley.edu/series.html#c,d,Computer_Science)
 
